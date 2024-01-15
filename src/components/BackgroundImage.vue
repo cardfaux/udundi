@@ -1,11 +1,11 @@
 <script setup></script>
 
 <template>
-  <!-- <div class="udundi h-screen bg-cover bg-no-repeat bg-[url('/img/Coding-Challenge-Image.png')]">
-    <img src="/img/Coding-Challenge-Image.png" alt="forest background image" rel="preload" />
+  <!-- <div class="udundi h-screen bg-cover bg-no-repeat bg-[url('/img/Coding-Challenge-Image.jpg')]">
+    <img src="/img/Coding-Challenge-Image.jpg" alt="forest background image" rel="preload" />
   </div> -->
   <div class="udundi h-screen bg-cover bg-no-repeat">
-    <img src="/img/Coding-Challenge-Image.png" alt="forest background image" rel="preload" />
+    <img src="/img/Coding-Challenge-Image.jpg" alt="forest background image" rel="preload" />
   </div>
 </template>
 
